@@ -1,7 +1,7 @@
-# Projeto - Dados do Covid-19
+# Projeto - Desafio 2 - IGTI
 
-Projeto com dados em tempo real do Covid-19 no Brasil com HTML, CSS e JavaScript.
-Este projeto foi construído usando a API [COVID-19 Brazil API](https://covid19-brazil-api.now.sh/api/report/v1)
+Projeto para favoritar países com HTML, CSS e JavaScript.
+Este projeto foi construído usando a API [RESTCOUNTRIES](https://restcountries.eu/rest/v2/al)
 
 ## Instruções de instalação
 
@@ -15,12 +15,13 @@ Certifique-se de ter o Git instalado, antes de continuar.
 
 Para clonar e executar este aplicativo, você precisará do Git instalado no seu computador.
 
-`$ git clone https://github.com/danielAmazonas/covidjs`
+`$ git clone https://github.com/danielAmazonas/desafio2-igti`
 
-#### 2. Ver dados
+#### 2. Utilizar a ferramenta
 
 Entre na pasta e abra o arquivo index.html.
 
 #### 3. Imagens
 
-![posts](https://github.com/danielAmazonas/covidjs/blob/master/screenshots/dados_covid_brasil.png)
+![posts](https://github.com/danielAmazonas/desafio2-igti/blob/master/screenshots/img_0.png)
+![posts](https://github.com/danielAmazonas/desafio2-igti/blob/master/screenshots/img_1.png)
