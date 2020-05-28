@@ -1,0 +1,35 @@
+body {
+  padding: 10px;
+  font-family: 'Muli', sans-serif;
+}
+
+img {
+  width: 55px;
+  /* height: 50px; */
+  margin-right: 10px;
+  margin-left: 10px;
+  /* border-radius: 50%; */
+}
+
+.country-container {
+  display: flex;
+}
+
+.country {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.country-list {
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  margin-right: 15px;
+  box-shadow: 1px 1px 8px gray;
+  background-color: beige;
+}
+
+.population {
+  color: gray;
+}
